@@ -28,6 +28,8 @@ label {
 
 input[type="text"],
 input[type="email"],
+input[type="number"],
+input[type="roll"],
 input[type="password"] {
     width: 100%;
     padding: 10px;
